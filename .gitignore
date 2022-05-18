@@ -1,0 +1,4 @@
+**/.direnv
+
+# VSCode
+.vscode/settings.json
